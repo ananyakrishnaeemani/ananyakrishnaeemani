@@ -30,7 +30,7 @@ I have hands-on experience in building full-stack applications, AI-powered platf
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left"> Language and tools</h3>
 
 ###
 
