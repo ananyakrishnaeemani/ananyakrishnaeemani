@@ -19,7 +19,7 @@ A highly motivated Computer Science & Data Science student with a strong foundat
 
 I have hands-on experience in building full-stack applications, AI-powered platforms, and data-driven projects, with a keen focus on digital transformation and delivering future-ready digital solutions.
 
-### 🚀 My Expertise:
+###  My Expertise:
 
 * **Programming Languages**: Python, JavaScript, C 
 * **Web Development**: MERN, Angular, Next.js, HTML, CSS, Bootstrap, Node.js, Python, API Integration
@@ -68,12 +68,12 @@ I have hands-on experience in building full-stack applications, AI-powered platf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
-### 🎓 Education:
+### Education:
 
 **Sreyas Institute of Engineering and Technology**
 Bachelor of Technology (2022-2026)
 
-### 📫 Let's Connect:
+### Let's Connect:
 
 * **Email**: ananyakrish124@gmail.com
 * **LinkedIn**: [linkedin.com/in/ananyakrishna/](https://www.linkedin.com/in/ananyakrishna/) 
